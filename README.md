@@ -18,7 +18,26 @@ A simple 8-bit processor implemented in Verilog HDL as a course project by **Pra
 ---
 ## Figures of Implementation
 ### Individual Register
+![image](https://github.com/user-attachments/assets/594a9e1e-1e57-4d9b-ad46-824f58b99d48)
 
+### Register bank
+![image](https://github.com/user-attachments/assets/56cb5481-4ef2-4331-bf13-c582f4e6c87f)
+
+### Accumulator
+![image](https://github.com/user-attachments/assets/036f5b59-849f-49bd-9bdd-d050cd6c4132)
+
+### Extended Register
+![image](https://github.com/user-attachments/assets/80221bc7-06d7-4a33-821e-7810bbbc3456)
+
+### Program counter
+![image](https://github.com/user-attachments/assets/846b2d93-1f81-4b8e-a2dc-4bd5a97d99ca)
+
+### ALU
+![image](https://github.com/user-attachments/assets/2101db8f-4456-4d46-b0ea-73908fa2b6bc)
+![image](https://github.com/user-attachments/assets/c9c2d03e-9db6-4543-85d4-d6f550aff36f)
+
+### Simulation Results
+![image](https://github.com/user-attachments/assets/345c7e4f-5ab7-4aba-93ec-3f2a259e26eb)
 
 
 ---
